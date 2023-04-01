@@ -4,4 +4,5 @@
 
 
 ## Files with random data from otomoto.pl
+## Using makinarocks Links to create and run Python pipeline in various environments
 
